@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "my_allocator.h": "c",
+        "unistd.h": "c",
+        "stdio.h": "c"
+    }
+}
